@@ -1,8 +1,8 @@
 package router
 
 import (
-	log "github.com/sirupsen/logrus"
 	"fmt"
+	log "github.com/sirupsen/logrus"
 	"net/http"
 	"os"
 )

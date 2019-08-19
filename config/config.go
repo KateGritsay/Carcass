@@ -3,9 +3,7 @@ package config
 import (
 	"fmt"
 	"github.com/spf13/viper"
-
 )
-
 
 func Config() {
 	viper.SetConfigName("config") // name of config file (without extension)
